@@ -2,7 +2,8 @@
 
 
 
-## image of the game: 
+## image of the game: <img width="801" height="445" alt="image" src="https://github.com/user-attachments/assets/d01755ea-8568-4b64-9cf1-a13581e118a2" />
+
 
 
 
@@ -13,7 +14,7 @@
 
 
 
-## ##How To Play Controls Move Left / Right → Arrow Keys or left & right click Jump → Space Bar Objective Reach the end of the level Avoid falling into holes Collect coins while exploring the map
+ ## How To Play Controls Move Left / Right → Arrow Keys or left & right click Jump → Space Bar Objective Reach the end of the level Avoid falling into holes Collect coins while exploring the map
 
 
 
